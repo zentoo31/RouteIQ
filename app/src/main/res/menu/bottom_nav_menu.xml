@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Ruta"
+        android:icon="@drawable/baseline_directions_bus_24_black"
+        android:id="@+id/rutaFragment" />
+    <item android:title="Escanear"
+        android:icon="@drawable/baseline_qr_code_24"
+        android:id="@+id/scanFragment" />
+    <item android:title="Billetera"
+        android:icon="@drawable/baseline_account_balance_wallet_24"
+        android:id="@+id/walletFragment"/>
+</menu>
